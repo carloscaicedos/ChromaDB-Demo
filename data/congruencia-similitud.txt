@@ -1,0 +1,5 @@
+Congruencia y similitud
+
+La congruencia y la similitud son conceptos que describen cuando dos formas tienen características similares.38​ En la geometría euclidiana, la similitud se usa para describir objetos que tienen la misma forma, mientras que la congruencia se usa para describir objetos que son iguales tanto en tamaño como en forma.39​ Hilbert, en su trabajo sobre la creación de una base más rigurosa para la geometría, trató la congruencia como un término indefinido cuyas propiedades están definidas por axiomas.
+
+La congruencia y la similitud se generalizan en la geometría de transformación, que estudia las propiedades de los objetos geométricos que se conservan mediante diferentes tipos de transformaciones

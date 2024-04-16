@@ -1,0 +1,9 @@
+Ángulos
+
+Euclides define un ángulo plano como la inclinación entre sí, en un plano, de dos líneas que se encuentran y no son rectas entre sí.13​ En términos modernos, un ángulo es la figura formada por dos rayos de luz, llamados lados del ángulo, que comparten un punto final común, llamado vértice del ángulo.22​
+
+
+Ángulos agudos (a), obtusos (b) y rectos (c). Los ángulos agudos y obtusos también se denominan ángulos oblicuos.
+En la geometría euclidiana, los ángulos se utilizan para estudiar polígonos y triángulos, además de formar un objeto de estudio por derecho propio.13​ El estudio de los ángulos de un triángulo o de los ángulos en un círculo unitario forma la base de la trigonometría.23​
+
+En geometría diferencial y cálculo, los ángulos entre curvas planas o curvas espaciales o superficies se pueden calcular utilizando la derivada.

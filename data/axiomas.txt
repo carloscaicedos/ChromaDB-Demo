@@ -1,0 +1,9 @@
+Axiomas
+
+En geometría euclidiana, los axiomas y postulados son proposiciones que relacionan conceptos, definidos en función del punto, la recta y el plano. Euclides planteó cinco postulados y fue el quinto (el postulado de paralelismo) el que siglos después —cuando muchos geómetras lo cuestionaron al analizarlo— originará nuevas geometrías: la elíptica (geometría de Riemann) o la hiperbólica de Nikolái Lobachevski.
+
+En geometría analítica, los axiomas se definen en función de ecuaciones de puntos, basándose en el análisis matemático y el álgebra. Adquiere otro nuevo sentido hablar de puntos, rectas o planos. f(x) puede definir cualquier función, llámese recta, circunferencia, plano, etc.
+
+
+Ilustración del postulado de las paralelas de Euclides.
+Euclides adoptó un enfoque abstracto de la geometría en sus Elementos,7​ uno de los libros más influyentes jamás escritos.8​ Euclides introdujo ciertos axiomas o postulados que expresan propiedades primarias o evidentes de puntos, líneas y planos.9​ Procedió a deducir rigurosamente otras propiedades mediante el razonamiento matemático. El rasgo característico de la aproximación de Euclides a la geometría fue su rigor, y ha llegado a conocerse como geometría axiomática o sintética.10​ A principios del siglo xix, el descubrimiento de geometrías no euclidianas por Nikolai Ivanovich Lobachevsky (1792-1856), János Bolyai (1802-1860), Carl Friedrich Gauss (1777-1855) y otros11​ llevaron a un resurgimiento del interés por esta disciplina, y en el siglo xx, David Hilbert (1862–1943) empleó el razonamiento axiomático en un intento de proporcionar una base moderna de la geometría.

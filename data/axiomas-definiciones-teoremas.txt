@@ -1,0 +1,7 @@
+Axiomas, definiciones y teoremas
+
+La geometría se propone ir más allá de lo alcanzado por la intuición. Por ello, es necesario un método riguroso, sin errores; para conseguirlo se han utilizado históricamente los sistemas axiomáticos. El primer sistema axiomático lo establece Euclides, aunque era incompleto. David Hilbert propuso a principios del siglo xx otro sistema axiomático, este ya completo. Como en todo sistema formal, las definiciones, no solo pretenden describir las propiedades de los objetos, o sus relaciones. Cuando se axiomatiza algo, los objetos se convierten en entes abstractos ideales y sus relaciones se denominan modelos.
+
+Esto significa que las palabras «punto», «recta» y «plano» deben perder todo significado material. Cualquier conjunto de objetos que verifique las definiciones y los axiomas cumplirá también todos los teoremas de la geometría en cuestión, y sus relaciones serán virtualmente idénticas al del modelo «tradicional».
+
+Los siguientes son algunos de los conceptos más importantes en geometría.

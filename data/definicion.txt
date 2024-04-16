@@ -1,0 +1,7 @@
+Definición de geometría
+
+La geometría (del latín geometrĭa, y este del griego γεωμετρία de γῆ gē, ‘tierra’, y μετρία metría, ‘medida’) es una rama de las matemáticas que se ocupa del estudio de las propiedades de las figuras en el plano o el espacio,1​ incluyendo: puntos, rectas, planos, politopos (como paralelas, perpendiculares, curvas, superficies, polígonos, poliedros, etc.).
+
+Es la base teórica de la geometría descriptiva o del dibujo técnico. También da fundamento a instrumentos como el compás, el teodolito, el pantógrafo o el sistema de posicionamiento global (en especial cuando se la considera en combinación con el análisis matemático y sobre todo con las ecuaciones diferenciales).
+
+Sus orígenes se remontan a la solución de problemas concretos relativos a medidas. Tiene su aplicación práctica en física aplicada, mecánica, arquitectura, geografía, cartografía, astronomía, náutica, topografía, balística, etc., y es útil en la preparación de diseños e incluso en la fabricación de artesanía.
