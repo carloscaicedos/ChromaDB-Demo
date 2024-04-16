@@ -26,7 +26,9 @@ parser.add_argument(
     type=json.loads,
     help="Condición usada para filtrar los resultados.",
 )
-parser.add_argument("-n", dest="n_results", type=int, help="Número de resultados.")
+parser.add_argument(
+    "-n", dest="n_results", type=int, help="Número de resultados.", default=1
+)
 
 args = parser.parse_args()
 
@@ -46,7 +48,6 @@ if __name__ == "__main__":
         query_texts=[args.text],
         where=args.where,
         n_results=args.n_results,
-        include=["embeddings"],
     )
 
     print(query_results)
